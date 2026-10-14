@@ -2,7 +2,7 @@
 
 > Real-time RPC latency observability, live gas fee canary, and developer connection toolkit for Circle's Arc Layer 1.
 
-- **Live Hosted Application:** https://tinyurl.com/arc-pulse
+- **Live Hosted Application:** https://tinyurl.com/a-pulse
 - **Target Network:** Arc Mainnet (Chain ID 5042)
 - **Native Gas Token:** USDC (18 decimals)
 - **Smart Contract Address:** `0x6295b9c03fa0e982d619932adbebf09121d5a574`
